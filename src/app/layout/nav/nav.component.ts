@@ -1,5 +1,5 @@
 import { Component, inject } from '@angular/core';
-import { FormsModule, NgModel } from '@angular/forms';
+import { FormsModule } from '@angular/forms';
 import { Router, RouterLink, RouterLinkActive } from '@angular/router';
 import { BsDropdownModule } from 'ngx-bootstrap/dropdown';
 import { ToastrService } from 'ngx-toastr';
